@@ -72,7 +72,7 @@ services:
   # Using a well-maintained community image
   # GPU support requires NVIDIA Container Toolkit
   comfyui:
-    image: frdel/comfyui-docker:latest
+    image: aidockorg/comfyui-cuda:latest
     container_name: ai-stack-comfyui
     ports:
       - "8188:8188"
