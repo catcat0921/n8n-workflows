@@ -8,6 +8,8 @@ A single-command deployable stack for AI-powered workflow automation with image 
 
 ## 📚 Documentation
 
+**👉 [START HERE: Documentation Index](INDEX.md)** - Choose the right guide for you!
+
 - **🚀 [QUICK START](QUICK-START.md)** - 3 simple steps to get started
 - **📖 [EASY INSTALL GUIDE](EASY-INSTALL.md)** - Step-by-step with pictures
 - **🔧 [TROUBLESHOOTING](TROUBLESHOOTING.md)** - Fix common problems
